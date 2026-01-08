@@ -1,6 +1,6 @@
+drop database CNTT1_PhungVanVuong_002;
 create database CNTT1_PhungVanVuong_002;
 use CNTT1_PhungVanVuong_002;
-drop database CNTT1_PhungVanVuong_002;
 
 -- 1 tạo bảng csdl
 create table Customers (
